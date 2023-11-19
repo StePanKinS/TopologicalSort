@@ -1,0 +1,1 @@
+It is a console program that takes a string as input. Using regular expresions it finds intager pairs, sorts them and ouputs sorted elements
